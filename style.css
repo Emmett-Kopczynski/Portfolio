@@ -1,3 +1,7 @@
-.gtkparent {
+.gtk-words {
+  display: inline-block;
+}
+
+.gtk-image {
   display: inline-block;
 }
