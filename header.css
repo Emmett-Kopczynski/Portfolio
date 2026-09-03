@@ -1,0 +1,16 @@
+.title{
+    margin: 0;
+    text-align:center;
+}
+
+.link{
+    text-align: center;
+    white-space: nowrap;
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
+}
+
+.home-link{
+    white-space: nowrap;
+    margin: 0;
+}
