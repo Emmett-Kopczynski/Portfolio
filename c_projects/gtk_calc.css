@@ -1,9 +1,15 @@
-.description {
+.description-1 {
     margin-top: 3.5rem;
     margin-left: 3.5rem;
     display: grid;
     gap: 3.5rem;
     grid-template-columns: 1fr 1fr 1fr;
+}
+
+.description-2 {
+    margin-top: 3.5rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;   
 }
 
 .gtk-img {
