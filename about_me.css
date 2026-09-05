@@ -4,3 +4,9 @@
     display:grid;
     grid-template-columns: 1fr 1fr;
 }
+
+.image {
+    height: 35rem;
+    width: 29rem;
+    margin-left: 10rem;
+}
